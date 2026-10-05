@@ -1,0 +1,14 @@
+# Virtual Environments
+venv/
+# Editor directories and files
+.vscode/
+# Archives
+*.zip
+PHASE 1.zip
+# Test Data (Optional)
+image test/
+vid test/
+test.py
+# Personal Documents
+*.pdf
+nlcsnkhmt_hk1_2627_tranngoclehuy.pdf
